@@ -133,7 +133,7 @@ __index.js__
 + }
 ```
 
-再次运行 `npm build build` 来构建包含注册代码版本的应用程序。然后用 `npm start` 将构建结果 serve 到服务下。导航至 `http://localhost:8080` 并查看 console 控制台。应该看到：
+再次运行 `npm build` 来构建包含注册代码版本的应用程序。然后用 `npm start` 将构建结果 serve 到服务下。导航至 `http://localhost:8080` 并查看 console 控制台。应该看到：
 
 ``` bash
 SW registered
